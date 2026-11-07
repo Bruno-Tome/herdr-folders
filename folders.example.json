@@ -1,0 +1,7 @@
+{
+  "folders": ["Work", "Personal"],
+  "rules": {
+    "~/work": "Work",
+    "~/code/personal": "Personal"
+  }
+}

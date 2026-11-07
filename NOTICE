@@ -1,0 +1,10 @@
+herdr-folders
+
+mods/spaces-folders/main.js and mods/agents-folders/main.js are modified
+copies of the `spaces` and `agents` mods shipped with the Herdr app 0.1.13,
+licensed under the Apache License, Version 2.0 (see LICENSE).
+layouts/folders.json is a modified copy of Herdr's `main` layout.
+
+Changes: spaces and agents grouped into user-defined folders (folders.js,
+shared by both mods), a folder toggle in the Spaces header, and a
+"Grouped by folder" sort in the Agents list.
